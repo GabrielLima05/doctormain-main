@@ -59,7 +59,7 @@ Contribuições são bem-vindas! Se você tiver sugestões ou quiser melhorar es
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://software-licensing.com/?gad_source=1&gad_campaignid=22311250079&gbraid=0AAAAA-1WouiYvp1fj5UAtshcsVzKLukc4&gclid=CjwKCAjw6s7CBhACEiwAuHQckgF53pM9wemOwE-2-fjt97eI4z8oNLw_-SxtseQyoY4S7SbT_4hfWxoCMocQAvD_BwE) para mais detalhes
 
 Licença MIT
 
