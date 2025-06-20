@@ -32,7 +32,7 @@ doctormain-main/
 ├── style.css           # Application's CSS styles
 └── README.md           # This file
 
-## ▶How to Run the Project
+## How to Run the Project
 
 To view and test the project locally, follow the steps below:
 
