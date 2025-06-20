@@ -1,88 +1,72 @@
-# doctormain-main 👨‍⚕️🏠
+# doctormain-main
 
 <p align="center">
-  Um projeto focado em soluções para gestão e acompanhamento de cuidados em ambientes hospitalares ou domiciliares.
+  A project focused on solutions for managing and monitoring care in hospital or home environments.
 </p>
 
-## 🚀 Sobre o Projeto
+## About the Project
 
-O `doctormain-main` foi desenvolvido com o objetivo de oferecer uma plataforma ou interface para auxiliar nos cuidados de saúde, seja em um contexto hospitalar ou diretamente na casa do paciente. Ele visa simplificar o acesso e a organização de informações essenciais, proporcionando uma experiência mais fluida para usuários e profissionais.
+`doctormain-main` was developed with the aim of offering a platform or interface to assist in healthcare, whether in a hospital context or directly at the patient's home. It seeks to simplify access and organization of essential information, providing a more fluid experience for users and professionals.
 
-## ✨ Funcionalidades
+## Features
 
-* **Interface Intuitiva:** Design pensado para facilitar a navegação e o uso.
-* **Responsividade:** Adaptável a diferentes tamanhos de tela (se aplicável).
+* **Intuitive Interface:** Design focused on facilitating navigation and use.
+* **Responsiveness:** Adaptable to different screen sizes (if applicable).
 
-## 🛠️ Tecnologias Utilizadas
+## Technologies Used
 
-Este projeto foi construído utilizando as seguintes tecnologias:
+This project was built using the following technologies:
 
-* **HTML:** Para a estrutura e conteúdo das páginas web.
-* **CSS:** Para a estilização e design visual da aplicação.
-* **JavaScript:** Para adicionar interatividade e dinamismo à interface.
+* **HTML:** For the structure and content of web pages.
+* **CSS:** For the styling and visual design of the application.
+* **JavaScript:** To add interactivity and dynamism to the interface.
 
-## 📁 Estrutura do Projeto
+## Project Structure
 
-O repositório está organizado da seguinte forma:
+The repository is organized as follows:
+
 doctormain-main/
-├── assets/             # Imagens, ícones e outros recursos estáticos
-├── index.html          # Página principal da aplicação
-├── main.js             # Lógica JavaScript do projeto
-├── style.css           # Estilos CSS da aplicação
-└── README.md           # Este arquivo
+├── assets/             # Images, icons, and other static resources
+├── index.html          # Main application page
+├── main.js             # Project's JavaScript logic
+├── style.css           # Application's CSS styles
+└── README.md           # This file
 
-## ▶️ Como Rodar o Projeto
+## ▶How to Run the Project
 
-Para visualizar e testar o projeto localmente, siga os passos abaixo:
+To view and test the project locally, follow the steps below:
 
-1.  **Clone o Repositório:**
+1.  **Clone the Repository:**
     ```bash
     git clone [https://github.com/GabrielLima05/doctormain-main.git](https://github.com/GabrielLima05/doctormain-main.git)
     ```
-2.  **Navegue até o Diretório do Projeto:**
+2.  **Navigate to the Project Directory:**
     ```bash
     cd doctormain-main
     ```
-3.  **Abra o `index.html`:**
-    Simplesmente abra o arquivo `index.html` no seu navegador web preferido (ex: Chrome, Firefox, Edge).
+3.  **Open `index.html`:**
+    Simply open the `index.html` file in your preferred web browser (e.g., Chrome, Firefox, Edge).
 
-## 🤝 Contribuições
+## Contributions
 
-Contribuições são bem-vindas! Se você tiver sugestões ou quiser melhorar este projeto, sinta-se à vontade para:
+Contributions are welcome! If you have suggestions or want to improve this project, feel free to:
 
-1.  Fazer um **fork** do repositório.
-2.  Criar uma nova **branch** (`git checkout -b feature/sua-feature`).
-3.  Fazer suas **alterações**.
-4.  Comitar suas alterações (`git commit -m 'feat: Adiciona nova funcionalidade'`).
-5.  Fazer um **push** para a branch (`git push origin feature/sua-feature`).
-6.  Abrir um **Pull Request**.
+1.  **Fork** the repository.
+2.  Create a new **branch** (`git checkout -b feature/your-feature`).
+3.  Make your **changes**.
+4.  Commit your changes (`git commit -m 'feat: Add new feature'`).
+5.  **Push** to the branch (`git push origin feature/your-feature`).
+6.  Open a **Pull Request**.
 
-## 📄 Licença
+## License
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://software-licensing.com/?gad_source=1&gad_campaignid=22311250079&gbraid=0AAAAA-1WouiYvp1fj5UAtshcsVzKLukc4&gclid=CjwKCAjw6s7CBhACEiwAuHQckgF53pM9wemOwE-2-fjt97eI4z8oNLw_-SxtseQyoY4S7SbT_4hfWxoCMocQAvD_BwE) para mais detalhes
+This project is licensed under the MIT License - see the [LICENSE](https://software-licensing.com/?gad_source=1&gad_campaignid=22311250079&gbraid=0AAAA-1WouiYvp1fj5UAtshcsVzKLukc4&gclid=CjwKCAjw6s7CBhACEiwAuHQckgF53pM9wemOwE-2-fjt97eI4z8oNLk_-SxtseQyoY4S7SbT_4hfWxoCMocQAvD_BwE) file for more details.
 
-Licença MIT
+MIT License
 
 Copyright (c) [2025] [Gabriel Cavalcante de Lima Oliveira]
 
-É concedida permissão, gratuita, a qualquer pessoa que obtenha uma cópia
-deste software e arquivos de documentação associados (o "Software"), para lidar
-no Software sem restrições, incluindo, sem limitação, os direitos
-usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender
-cópias do Software e permitir que as pessoas a quem o Software é destinado
-mobiliados para tal, sujeitos às seguintes condições:
-
-O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todos
-cópias ou partes substanciais do Software.
-
-O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
-IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO,
-ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO. EM NENHUMA HIPÓTESE O
-OS AUTORES OU TITULARES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTROS
-RESPONSABILIDADE, SEJA EM UMA AÇÃO CONTRATUAL, DELITO OU DE OUTRA FORMA, DECORRENTE DE,
-FORA OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO
-PROGRAMAS.
-
----
-
-<p align="center">Desenvolvido com ❤️ por Gabriel Lima</p>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
