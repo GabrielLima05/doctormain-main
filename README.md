@@ -1,4 +1,4 @@
-# doctormain-main
+# DoctorCare
 
 <p align="center">
   A project focused on solutions for managing and monitoring care in hospital or home environments.
